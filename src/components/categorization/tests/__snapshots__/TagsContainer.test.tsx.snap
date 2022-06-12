@@ -1,0 +1,169 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TagsContainer /> renders correctly 1`] = `
+Array [
+  <div
+    className="sc-jSMfEi AlZcL"
+  >
+    <div
+      className="sc-gKXOVf fvGQzg"
+    >
+      General
+    </div>
+    <div
+      className="sc-iBkjds crHxek"
+    >
+      <div
+        className="sc-bczRLJ ljJSEx"
+      >
+        Example general tag
+      </div>
+      <div
+        className="sc-dkzDqf bhAngL"
+      >
+        <div
+          className="sc-eCYdqJ zteIz"
+          onClick={[Function]}
+        >
+          + New Tag
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="sc-jSMfEi AlZcL"
+  >
+    <div
+      className="sc-gKXOVf fvGQzg"
+    >
+      Portfolio
+    </div>
+    <div
+      className="sc-iBkjds crHxek"
+    >
+      <div
+        className="sc-dkzDqf bhAngL"
+      >
+        <div
+          className="sc-eCYdqJ zteIz"
+          onClick={[Function]}
+        >
+          + New Tag
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="sc-jSMfEi AlZcL"
+  >
+    <div
+      className="sc-gKXOVf fvGQzg"
+    >
+      Certificates
+    </div>
+    <div
+      className="sc-iBkjds crHxek"
+    >
+      <div
+        className="sc-bczRLJ ljJSEx"
+      >
+        Example certificate tag
+      </div>
+      <div
+        className="sc-dkzDqf bhAngL"
+      >
+        <div
+          className="sc-eCYdqJ zteIz"
+          onClick={[Function]}
+        >
+          + New Tag
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`<TagsContainer /> should render correctly 1`] = `
+Array [
+  <div
+    className="sc-jSMfEi AlZcL"
+  >
+    <div
+      className="sc-gKXOVf fvGQzg"
+    >
+      General
+    </div>
+    <div
+      className="sc-iBkjds crHxek"
+    >
+      <div
+        className="sc-bczRLJ ljJSEx"
+      >
+        Example general tag
+      </div>
+      <div
+        className="sc-dkzDqf bhAngL"
+      >
+        <div
+          className="sc-eCYdqJ zteIz"
+          onClick={[Function]}
+        >
+          + New Tag
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="sc-jSMfEi AlZcL"
+  >
+    <div
+      className="sc-gKXOVf fvGQzg"
+    >
+      Portfolio
+    </div>
+    <div
+      className="sc-iBkjds crHxek"
+    >
+      <div
+        className="sc-dkzDqf bhAngL"
+      >
+        <div
+          className="sc-eCYdqJ zteIz"
+          onClick={[Function]}
+        >
+          + New Tag
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="sc-jSMfEi AlZcL"
+  >
+    <div
+      className="sc-gKXOVf fvGQzg"
+    >
+      Certificates
+    </div>
+    <div
+      className="sc-iBkjds crHxek"
+    >
+      <div
+        className="sc-bczRLJ ljJSEx"
+      >
+        Example certificate tag
+      </div>
+      <div
+        className="sc-dkzDqf bhAngL"
+      >
+        <div
+          className="sc-eCYdqJ zteIz"
+          onClick={[Function]}
+        >
+          + New Tag
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;

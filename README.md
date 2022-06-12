@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple react Modal which allows dynamically adding and removing tags.
 
 ## Available Scripts
 
